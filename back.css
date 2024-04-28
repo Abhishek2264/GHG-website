@@ -1,0 +1,6 @@
+body {
+    background-image: url("C:\Users\V\Downloads\power-plant-7518647_1280.jpg"); /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+    background-size: cover; /* This will make sure the background image covers the entire page */
+    background-repeat: no-repeat; /* Prevent the background from repeating */
+    background-position: center;
+}

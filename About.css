@@ -1,0 +1,19 @@
+
+        .team-section {
+            background-color: #f4f4f4;
+            padding: 20px;
+            text-align: center;
+        }
+        .team-member {
+            margin: 20px;
+            padding: 10px;
+            background-color: white;
+            display: inline-block; /* Display team members side by side */
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+   
